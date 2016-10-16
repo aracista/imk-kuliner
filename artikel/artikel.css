@@ -1,0 +1,42 @@
+/*Style dalam Produk*/
+.produk {
+	width: 100%;
+	float: left;
+}
+.produk img{
+	width: 30%;
+	float : left;
+}
+
+.keterangan{
+	width: 60%;
+	margin : 0px 5%;
+	float: right;
+}
+.keterangan h2{
+	text-align: center;
+	font-size: 30px;
+}
+.keterangan h2{
+	display: block;
+	margin : 5px 10px;
+	color : #E74E3C;
+}
+.keterangan p{
+	font-size: 20px;
+}
+
+.resep{
+	width: 80%;
+	margin : 0 auto;
+}
+
+.resep h3{
+	font-size: 25px;
+	color : #E74E3C;
+}
+
+.resep p,li{
+	font-size: 20px;
+}
+/*End of produk*/

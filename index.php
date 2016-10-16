@@ -3,6 +3,8 @@
 <head>
 	<title>Kuliner test</title>
 	<link rel="stylesheet" type="text/css" href="style/style.css">
+	<!-- Icon here -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 </head>
 <body>
 <?php include "navbar.html";?>
