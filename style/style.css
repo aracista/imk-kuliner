@@ -49,7 +49,7 @@ li a:hover{
 
 /*CONTAINER STYLE*/
 .container{
-	width: 1200px;
+	width: 90%;
 	margin : 0px auto;
 	padding: 0px;
 	background-color: white;
@@ -95,6 +95,11 @@ li a:hover{
 .produk img{
 	width: 100%;
 	border-radius: 8px;
+	opacity: 0.9;
+}
+
+.produk img:hover{
+	opacity: 1;
 }
 
 /*END OF MAIN CONTENT*/
