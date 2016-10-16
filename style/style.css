@@ -1,0 +1,114 @@
+/*GLOBAL RESET*/
+body{
+	margin: 0px;
+	padding : 0px;
+	font-family: 'Open Sans','calibri',helvetica;
+}
+
+/*END OF RESET*/
+
+/*GLOBAL STYLE*/
+.clear{
+	clear: both;
+}
+
+/*END OF GLOBAL*/
+
+/*NAVBAR STYLE*/
+.navbar{
+	height: 50px;
+	width: 100%;
+	background-color : #2C3E50;
+}
+
+ul{
+	margin : 0px;
+	padding : 0px;
+	list-style: none;
+}
+li{
+	padding-left : 75px;
+}
+
+
+li a{
+	margin: 0px;
+	font-size: 20px;
+	line-height: 20px;
+	padding : 15px 10px;
+	color : white;
+	float: left;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-color: #3498Db;
+}
+
+/*END OF NAVBAR*/
+
+/*CONTAINER STYLE*/
+.container{
+	width: 1200px;
+	margin : 0px auto;
+	padding: 0px;
+	background-color: white;
+}
+
+/*END OF CONTAINER*/
+
+/*HEADER STYLE*/
+
+.header-group{
+	position: relative;
+}
+
+.header img{
+	max-width: 100%;
+	height: auto;
+}
+
+.header .caption{
+	color : white;
+	position: absolute;
+	bottom: 8px;
+	right: 15px;
+	font-size: 70px;
+}
+
+
+/*MAIN CONTENT STYLE*/
+
+.content{
+	margin : 0 auto;
+	padding-left: 10px;
+}
+
+.produk{
+	width: 350px;
+	height: 400px;
+	margin : 10px 20px;
+	margin : 1px solid #ECF0F1;
+	float: left;
+}
+
+.produk img{
+	width: 100%;
+	border-radius: 8px;
+}
+
+/*END OF MAIN CONTENT*/
+
+/*FOOTER STYLE*/
+
+.footer{
+	height: 40px;
+	width: 100%;
+	background-color: #2C3E50;
+	color : white;
+	line-height: 40px;
+	text-align: center;
+}
+
+/*END OF FOOTER*/
+
