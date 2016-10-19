@@ -1,5 +1,4 @@
 # imk-kuliner
-tugas dari mata kuliah interaksi manusia komputer. (still in progress)
 
 ## Instalasi
 1. clone atau download repository.
