@@ -6,6 +6,7 @@
 .produk img{
 	width: 30%;
 	float : left;
+	opacity: 1;
 }
 
 .keterangan{
@@ -39,4 +40,17 @@
 .resep p,li{
 	font-size: 20px;
 }
+
+.bahan{
+	width: 30%;
+	float: left;
+}
+
+.video{
+	width: 70%;
+	float: right;
+	padding-top: 2%;
+}
+
+
 /*End of produk*/
