@@ -52,10 +52,28 @@ hr{
 	background-color: #3498Db;
 }
 
-/*.navbar input{
-	float : right;
-	padding : 10px 10px;
-}*/
+.search{
+	width: 200px;
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	padding: 10px 0px;
+	margin-right:100px; 
+}
+
+.search input{
+	margin : 0px;
+	padding : 0px;
+	width: 100%;
+	border: 0px;
+	height: 30px;
+	padding : 0px 12px;
+	box-sizing: border-box;
+	border-radius: 4px;
+	font-size: 16px;
+	text-align: right;
+
+}
 
 /*END OF NAVBAR*/
 
