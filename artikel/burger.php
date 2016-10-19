@@ -3,12 +3,24 @@
 <head>
 	<meta charset="utf-8">
 	<title>Burger</title>
+
+	<!-- Video.js here -->
+	<link href="http://vjs.zencdn.net/5.11.8/video-js.css" rel="stylesheet">
+
 	<!-- Main style -->
 	<link rel="stylesheet" type="text/css" href="../style/style.css">
 
 	<!-- Artikel style -->
 	<link rel="stylesheet" type="text/css" href="artikel.css">
 
+	<!-- love imoutos -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+	<!-- font here -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+
+	
 </head>
 <body>
 <?php include "../navbar.html" ?>
@@ -39,8 +51,10 @@
 	</div>
 
 	<br class="clear">
+	<br class="clear">
 	
 	<div class="resep">
+	<div class="bahan">
 		<h3>Bahan - Bahan</h3>
 		<p>
 		<ul>
@@ -54,6 +68,13 @@
 			<li>Timun</li>
 		</ul>
 		</p>
+	</div>
+	<div class="video">
+		<video width="100%" controls preload="auto">
+			<source src="../videos/test.mp4" type="video/mp4">
+		</video>
+	</div>
+	<br class="clear">
 		<h3>Cara Memasak</h3>
 		<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -80,12 +101,12 @@
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</p>
 	</div>
-
 </div>
 
 <br class="clear">
 
 <?php include "../footer.html" ?>
 
+<script src="http://vjs.zencdn.net/5.11.8/video.js"></script>
 </body>
 </html>
