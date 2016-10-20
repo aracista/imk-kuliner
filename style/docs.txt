@@ -1,1 +1,7 @@
-Warna : https://color.adobe.com/Flat-UI-color-theme-8736500/
+# Warna : https://color.adobe.com/Flat-UI-color-theme-8736500/
+
+# Dokumentasi untuk pengembang
+1. navbar : height = 50px, width = 100%;
+2. footer : height = 40px, width = 100%;
+3. konten : width = 90%;
+
