@@ -1,0 +1,124 @@
+.clear{
+	clear: both;
+}
+
+.artikel{
+	width: 80%;
+	margin : 0 auto;
+	padding: 0px;
+}
+/*Bagian Atas*/
+.artikel h1{
+	margin :0px;
+	margin-top:5px;
+	width: 100%;
+	font-size: 35px;
+	text-align: center;
+	color : #E74C3C;
+
+}
+
+.artikel .produk{
+	width: 30%;
+	height: 300px;
+	margin :0px;
+	float: left;
+/*	background-color: black;*/
+}
+
+.artikel .produk img{
+	margin: 0px;
+	width: 80%;
+	opacity: 1;
+	float: right;
+}
+
+.artikel .deskripsi {
+	width: 65%;
+	height: 300px;
+	margin : 0px;
+	padding-right: 10px;
+	font-size: 20px;
+	float: right;
+/*	background-color: black;*/
+}
+/*End of bagian atas*/
+
+/*Bagian Tengah*/
+
+.artikel .bahan{
+	width: 90%;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+.artikel .bahan h2{
+	color : #E74C3C;
+}
+
+.artikel .bahan .list{
+	width: 85%;
+	margin: 0 auto;
+}
+
+.artikel .bahan  ul{
+	list-style-type: square;
+	margin : 0 auto;
+}
+
+.artikel .bahan li{
+	width: 30%;
+	float: left;
+}
+
+.artikel .caraMemasak{
+	width: 90%;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+.artikel .caraMemasak h2{
+	color : #E74C3C;
+}
+
+/*End Of Bagian Tengah*/
+
+/*Bagian Bawah*/
+.artikel .video{
+	width: 80%;
+	float : left;
+}
+
+.artikel .penulis{
+	width: 18%;
+	background-color: #ECF0F1;
+	float: right;
+}
+.artikel .penulis .images{
+	width: 100%;
+}
+.artikel .penulis .images img{
+	width: 100%;
+}
+
+.artikel .penulis .text{
+	width: 100%;
+	text-align: center;
+}
+.artikel .penulis h3{
+	margin : 0px;
+	padding:0px;
+	background-color: black;
+	color: white;
+}
+
+.artikel .penulis .username a{
+	text-decoration: none;
+	color: black;
+}
+
+.artikel .penulis .username a:hover{
+	color: #2C3E50;
+	text-decoration: underline;
+}
+/*End of bagian bawah*/

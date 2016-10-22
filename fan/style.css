@@ -4,9 +4,6 @@ body{
 	font-size: 27px;
 	font-family: Calibri;
 	margin: 0px;
-
-
-
 }
 
 ul{
@@ -34,10 +31,9 @@ li:hover{
 	clear: both;
 
 }
-
 .navbar{
 	height: 50px;
-	background-color: purple;
+	background-color: purple		;
 
 
 }

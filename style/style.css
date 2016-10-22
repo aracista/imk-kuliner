@@ -13,6 +13,7 @@ body{
 }
 
 hr{    
+	margin-top:0px;
 	border: 0;
     height: 1px;
     background: #333;
@@ -65,19 +66,19 @@ hr{
 	margin : 0px;
 	padding : 0px;
 	width: 100%;
-	border: 0px;
+	border: none;
 	height: 30px;
 	padding : 0px 12px;
 	box-sizing: border-box;
 	border-radius: 4px;
 	font-size: 16px;
 	text-align: right;
-
 }
 
 /*END OF NAVBAR*/
 
 /*CONTAINER STYLE*/
+
 .container{
 	width: 90%;
 	margin : 0px auto;
@@ -103,7 +104,11 @@ hr{
 	position: absolute;
 	bottom: 8px;
 	right: 15px;
-	font-size: 70px;
+	font-size: 50px;
+}
+
+.header .caption p{
+	font-size: 20px;
 }
 
 
@@ -126,6 +131,7 @@ hr{
 	width: 100%;
 	border-radius: 8px;
 	opacity: 0.9;
+	transition-duration: 0.5s;
 }
 
 .produk img:hover{

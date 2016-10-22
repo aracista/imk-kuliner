@@ -1,1 +1,5 @@
 Warna : https://color.adobe.com/Flat-UI-color-theme-8736500/
+
+merah : #E74C3C
+biru(dongker) : #2C3E50
+putih : #ECF0F1; 
