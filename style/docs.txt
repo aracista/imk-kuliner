@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 Warna : https://color.adobe.com/Flat-UI-color-theme-8736500/
 
 merah : #E74C3C
 biru(dongker) : #2C3E50
 putih : #ECF0F1; 
+=======
+# Warna : https://color.adobe.com/Flat-UI-color-theme-8736500/
+
+# Dokumentasi untuk pengembang
+1. navbar : height = 50px, width = 100%;
+2. footer : height = 40px, width = 100%;
+3. konten : width = 90%;
+
+>>>>>>> 414fb407a1d9f04ad609b2a8f6a51a778923b60e
