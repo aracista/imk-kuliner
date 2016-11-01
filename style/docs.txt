@@ -1,15 +1,23 @@
-<<<<<<< HEAD
-Warna : https://color.adobe.com/Flat-UI-color-theme-8736500/
-
-merah : #E74C3C
-biru(dongker) : #2C3E50
-putih : #ECF0F1; 
-=======
 # Warna : https://color.adobe.com/Flat-UI-color-theme-8736500/
+1. merah : #E74C3C
+2. biru(dongker) : #2C3E50
+3. putih : #ECF0F1; 
 
 # Dokumentasi untuk pengembang
 1. navbar : height = 50px, width = 100%;
 2. footer : height = 40px, width = 100%;
 3. konten : width = 90%;
 
->>>>>>> 414fb407a1d9f04ad609b2a8f6a51a778923b60e
+# Database 
+## Tabel untuk artikel
+1. Gambar
+2. Judul resep
+3. Deskripsi
+4. Bahan-bahan
+5. Cara Memasak
+6. Video
+7. Penulis resep
+
+## Tabel untuk login(penulis)
+1. username
+2. password

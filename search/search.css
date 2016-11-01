@@ -1,0 +1,55 @@
+p.searchText{
+	margin : 5px;
+	text-align: center;
+	font-size: 18px;
+	color: #2C3E50;
+	border: 1px solid #2C3E50;
+	border-radius: 4px;
+	padding : 10px;
+}
+
+.hasilSearch{
+	width: 90%;
+	margin : 0px auto;
+	height: 300px;
+	background-color: #ECF0F1;
+}
+
+.hasilSearch img{
+	float: left;
+	height: 100%;
+}
+
+.hasilSearch .keteranganSearch {
+	width: 70%;
+	padding-right: 5px;
+	float : right;
+}
+
+.hasilSearch .keteranganSearch h2{
+	color: #E74C3C;
+	text-align: center;
+}
+
+.hasilSearch .keteranganSearch .deskripsi{
+	color: #2C3E50;
+	width: 70%;
+	float: left;
+	font-size: 18px;
+}
+
+.hasilSearch .keteranganSearch .penulis{
+	padding-right: 3%;
+	width: 25%;
+	float: right;
+}
+.hasilSearch .keteranganSearch .penulis img{
+	width: 100%;
+	margin-bottom: 4px;
+}
+.hasilSearch .keteranganSearch .penulis p{
+	padding-bottom: 4px;
+	background-color: black;
+	color : white;
+	text-align: center;
+}
