@@ -12,12 +12,12 @@
 
 </head>
 <body>
-<?php include "../navbar.html" ?>
+<?php include "navbar.html" ?>
 
 <!-- Arikel -->
 <div class="artikel">
 <!-- Bagian Atas -->
-	<h1>Spaghetti i want to see</h1>
+	<h1>Roti Sandwich</h1>
 	<hr>
 	<div class="produk">
 		<img src="../images/food/3.jpg">
@@ -37,16 +37,16 @@
 	<h2>Bahan-Bahan</h2>
 		<div class="list">
 			<ul>
-				<li>Kacang ijo</li>
-				<li>Kacang ijo</li>
-				<li>Kacang ijo</li>
-				<li>Kacang ijo</li>
-				<li>Kacang ijo</li>
-				<li>Kacang ijo</li>
-				<li>Kacang ijo</li>
-				<li>Bawang bombai</li>
-				<li>Mie karin</li>
-				<li>Ramen desu</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
 			</ul>
 		</div>
 	</div>
@@ -83,13 +83,13 @@
 	</div>
 	<div class="penulis">
 		<div class="images">
-			<img src="../images/user/rambutijo.png">
+			<img src="../images/user/proto.jpg">
 		</div>
 		<div class="text">
 			<h3>Reciped by</h3>
 			<p class="username"><a href="#">Pquest</a></p>
 			<h3>Bio</h3>
-			<p class="userbio">Code for imouto</p>
+			<p class="userbio">Only Program in COBOL</p>
 		</div>
 	</div>
 <!-- End of Bagian Bawah -->
@@ -98,6 +98,6 @@
 <!-- end of artikel -->
 
 
-<?php include "../footer.html" ?>
+<?php include "footer.html" ?>
 </body>
 </html>

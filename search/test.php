@@ -12,7 +12,7 @@
 	<link rel="stylesheet" type="text/css" href="search.css">
 </head>
 <body>
-<?php include("../navbar.html") ?>
+<?php include("../artikel2/navbar.html") ?>
 
 <div class="container">
 <!-- Judul search -->
@@ -24,7 +24,7 @@
 <div class="hasilSearch">
 	<img src="../images/food/2.jpg">
 	<div class="keteranganSearch">
-		<h2>Burger damn it!</h2>
+		<h2>Burger</h2>
 		<div class="deskripsi">
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -34,7 +34,7 @@
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</div>
 		<div class="penulis">
-			<img src="../images/user/pquest.jpg">
+			<img src="../images/user/john.png">
 			<p>Reciped By pquest</p>
 		</div>
 	</div>
@@ -45,7 +45,7 @@
 <div class="hasilSearch">
 	<img src="../images/food/3.jpg">
 	<div class="keteranganSearch">
-		<h2>Watashi wa watashi desu</h2>
+		<h2>Roti Sandwich</h2>
 		<div class="deskripsi">
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -55,7 +55,7 @@
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</div>
 		<div class="penulis">
-			<img src="../images/user/rem.png">
+			<img src="../images/user/proto.jpg">
 			<p>Reciped By Admin</p>
 		</div>
 	</div>
@@ -65,9 +65,9 @@
 <br>
 
 <div class="hasilSearch">
-	<img src="../images/food/2.jpg">
+	<img src="../images/food/4.jpg">
 	<div class="keteranganSearch">
-		<h2>Burger damn it!</h2>
+		<h2>Bakso</h2>
 		<div class="deskripsi">
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -77,7 +77,7 @@
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</div>
 		<div class="penulis">
-			<img src="../images/user/pquest.jpg">
+			<img src="../images/user/john.png">
 			<p>Reciped By pquest</p>
 		</div>
 	</div>
@@ -87,6 +87,6 @@
 
 </div>
 
-<?php include("../footer.html") ?>
+<?php include("../artikel2/footer.html") ?>
 </body>
 </html>

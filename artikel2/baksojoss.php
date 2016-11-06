@@ -12,7 +12,7 @@
 
 </head>
 <body>
-<?php include "../navbar.html" ?>
+<?php include "navbar.html" ?>
 
 <!-- Arikel -->
 <div class="artikel">
@@ -98,6 +98,6 @@
 <!-- end of artikel -->
 
 
-<?php include "../footer.html" ?>
+<?php include "footer.html" ?>
 </body>
 </html>
