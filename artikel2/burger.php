@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Bakso</title>
+	<title>Burger</title>
 	<!-- style includer -->
 	<link rel="stylesheet" type="text/css" href="../style/style.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -17,10 +17,10 @@
 <!-- Arikel -->
 <div class="artikel">
 <!-- Bagian Atas -->
-	<h1>Bakso ONII-SAMA</h1>
+	<h1>Burger</h1>
 	<hr>
 	<div class="produk">
-		<img src="../images/food/4.jpg">
+		<img src="../images/food/2.jpg">
 	</div>
 	<div class="deskripsi">
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -37,16 +37,16 @@
 	<h2>Bahan-Bahan</h2>
 		<div class="list">
 			<ul>
-				<li>Garem</li>
-				<li>Garem</li>
-				<li>Garem</li>
-				<li>Garem</li>
-				<li>Garem</li>
-				<li>Garem</li>
-				<li>Garem</li>
-				<li>Bawang bombai</li>
-				<li>Bakso Karin</li>
-				<li>Ramen desu</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
+				<li>lorem dolor</li>
 			</ul>
 		</div>
 	</div>
@@ -83,13 +83,13 @@
 	</div>
 	<div class="penulis">
 		<div class="images">
-			<img src="../images/user/pquest.jpg">
+			<img src="../images/user/proto.jpg">
 		</div>
 		<div class="text">
 			<h3>Reciped by</h3>
-			<p class="username"><a href="#">Admin</a></p>
+			<p class="username"><a href="#">Pquest</a></p>
 			<h3>Bio</h3>
-			<p class="userbio">Not Defined</p>
+			<p class="userbio">Only Program in COBOL</p>
 		</div>
 	</div>
 <!-- End of Bagian Bawah -->
