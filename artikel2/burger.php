@@ -77,9 +77,7 @@
 <!-- End Of Bagian Tengah -->
 <!-- Bagian Bawah -->
 	<div class="video">
-		<video width="100%" controls preload="auto">
-			<source src="../videos/test.mp4" type="video/mp4">
-		</video>
+		<iframe width="100%" height="500" src="https://www.youtube.com/embed/SrpR1qH3NN4" frameborder="0" allowfullscreen></iframe>
 	</div>
 	<div class="penulis">
 		<div class="images">
